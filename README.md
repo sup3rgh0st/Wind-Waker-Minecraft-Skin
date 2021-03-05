@@ -11,7 +11,7 @@ These models were made to be compatible with the Wind Waker Randomizer by LagoLu
 https://github.com/LagoLunatic/wwrando/releases
 
 Special Thanks:
-LagoLunatic
-Bird of Light
-BigSharkZ
+LagoLunatic,
+Bird of Light,
+BigSharkZ,
 Claireeon
