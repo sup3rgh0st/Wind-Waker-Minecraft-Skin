@@ -9,6 +9,7 @@ https://github.com/sup3rgh0st/Wind-Waker-Minecraft-Skin/raw/main/WW_Minecraft_v2
 
 ## Changelog
 v1 Initial Release
+
 v2 Fix the color format on the Alex casual/alternate skin
 
 ## Credits
